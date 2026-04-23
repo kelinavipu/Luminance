@@ -43,3 +43,10 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Firebase credentials (do NOT commit)
+**/google-services.json
+**/GoogleService-Info.plist
+
+# Build reports
+**/build/reports/
